@@ -9,7 +9,7 @@ Project Name:
 Description
 ===============================
 
-A collection of Python projects, from singlepage website to pomodoro-app.
+A collection of Python projects, from single-page website to pomodoro-app.
 
 To view the project, check out the repository and inspect the code.
 
